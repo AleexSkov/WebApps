@@ -1,0 +1,28 @@
+<div class="center">
+    <!-- Loop gennem terningerne og vis billeder -->
+    @foreach (var dice in diceCup.Dices)
+    {
+        <img src="@GetDiceImage(dice.Value)" alt="Dice" width="200">
+    }
+
+    <br/>
+    <br/>
+
+    <button class="btn btn-primary" @onclick="RollDices">Rul Terninger</button>
+</div>
+
+@using WebApp2.Logic
+
+@code {
+    private DiceCup diceCup = new DiceCup(2); // Standard 2 terninger
+
+    private void RollDices()
+    {
+        diceCup.Roll();
+    }
+
+    private string GetDiceImage(int value)
+    {
+        return $"images/Dice{value}.png";
+    }
+}

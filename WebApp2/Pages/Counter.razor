@@ -1,0 +1,60 @@
+﻿@page "/counter"
+@using WebApp2.Components
+@inject Blazored.LocalStorage.ILocalStorageService localStore
+
+<PageTitle>Counter</PageTitle>
+
+<TimeComponent/>
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount</p>
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<button class="btn btn-primary" @onclick="Reset">Reset</button>
+
+<br>
+<br/>
+
+<p role="status">Random: <span style="color:@(tilfldigTal == 14 ? "red" : "black")">@tilfldigTal</span></p>
+
+<DiceComponent/>
+
+@code {
+    private int currentCount = 0;
+    private int tilfldigTal = 0;
+    private Random random = new Random();
+
+    protected override async Task OnInitializedAsync()
+    {
+        currentCount = await localStore.GetItemAsync<int>("count");
+        tilfldigTal = await localStore.GetItemAsync<int>("random");
+
+        // Hvis værdierne ikke findes i localStorage, sæt dem til standard
+        currentCount = currentCount == 0 ? 0 : currentCount;
+        tilfldigTal = tilfldigTal == 0 ? 0 : tilfldigTal;
+    }
+
+    private async Task IncrementCount()
+    {
+        currentCount++;
+        tilfldigTal = random.Next(0, currentCount + 1);
+
+        await localStore.SetItemAsync("count", currentCount);
+        await localStore.SetItemAsync("random", tilfldigTal);
+    }
+    
+    private async Task Reset()
+    {
+        currentCount = 0;
+        tilfldigTal = 0;
+
+        await localStore.SetItemAsync("count", currentCount);
+        await localStore.SetItemAsync("random", tilfldigTal);
+    }
+    
+    private async Task GenerateRandom()
+    {
+        tilfldigTal = random.Next(0, currentCount + 1);
+        await localStore.SetItemAsync("random", tilfldigTal);
+    }
+}

@@ -1,0 +1,30 @@
+@page "/MyDices"
+@using WebApp2.Logic
+
+<h3>My Dices</h3>
+<p>Tryk på knappen for at rulle terningerne.</p>
+
+<!-- Loop gennem terningerne og vis billeder -->
+@foreach (var dice in diceCup.Dices)
+{
+    <img src="@GetDiceImage(dice.Value)" alt="Dice" width="200">
+}
+
+<br/>
+<br/>
+
+<button class="btn btn-primary" @onclick="RollDices">Rul Terninger</button>
+
+@code {
+    private DiceCup diceCup = new DiceCup(2); // Standard 2 terninger
+
+    private void RollDices()
+    {
+        diceCup.Roll();
+    }
+
+    private string GetDiceImage(int value)
+    {
+        return $"images/Dice{value}.png";
+    }
+}
