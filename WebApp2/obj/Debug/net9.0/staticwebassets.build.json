@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mJNxW2K9FcUm7MCzdZ28XUprS5OlGdMfyiZCKJ3vEQI=",
+  "Hash": "nB6Kc8tJZMVXdCQieGXQVtge66K2/4C2m6z90jkYNmc=",
   "Source": "WebApp2",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "iv3tn6eied",
-      "Integrity": "IpjYBZqIdV+sFYiTAezyLXusUZ0ld8OeOT0OgGyw2gE=",
+      "Fingerprint": "4474lj2oip",
+      "Integrity": "BH7RkIojJL91FBceKvAzrzDOL8nIKWHT32o6L7T2Wak=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -892,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "1rmt900tyk",
-      "Integrity": "k/4km9f/rXbYCWDpNCjFxEdBdODwWi+fAIS07mb/u34=",
+      "Fingerprint": "rs3ivjv3xh",
+      "Integrity": "uz4U5m4msK9AG6Jd7BoJ0J7FbT5EmL5LmuO3WNZTK2g=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\Shared\\bin\\Debug\\net9.0\\Shared.pdb"
@@ -913,8 +913,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "mgn1yni8i4",
-      "Integrity": "+pQPYurvdGe9b5qaBd7o7hFSPJtTUSEDUGyrDOVbU3U=",
+      "Fingerprint": "kvnx4j6rod",
+      "Integrity": "4Dhw4fm6oAazqqS6rquj5peNhAkkWXW0S2Raht0x6cY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\webcil\\Shared.wasm"
@@ -4315,8 +4315,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "6fogp4zox4",
-      "Integrity": "oliNLU6Ava1kMWUqt8Ni+PFiuzf23q9OnZVq5Jhgogw=",
+      "Fingerprint": "n2uam4lcmq",
+      "Integrity": "v2zLMZqLFG0uQtYBMo/gjlNEgcPFYZcGpD9TukTl6fk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\WebApp2.pdb"
@@ -4336,8 +4336,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "s99dlajmzh",
-      "Integrity": "ML3MEUJOtZc/O8gEDA+fM0BoD+hixMLSdwEz7Kd67N4=",
+      "Fingerprint": "abazqtrytr",
+      "Integrity": "9jwcRNXLj7t0n57EP4Tmq0fSLpndCQ/fOHkNkNzetLc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\webcil\\WebApp2.wasm"
@@ -5939,12 +5939,12 @@
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\c7ny5wr54k-mgn1yni8i4.gz",
+      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\c7ny5wr54k-kvnx4j6rod.gz",
       "SourceId": "WebApp2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Shared#[.{fingerprint=mgn1yni8i4}]!.wasm.gz",
+      "RelativePath": "_framework/Shared#[.{fingerprint=kvnx4j6rod}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5953,8 +5953,8 @@
       "RelatedAsset": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Shared.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "4hsgdtr9k7",
-      "Integrity": "KKUEI/Y8hrxHWt1Z3myBEAbDJWaIpOFnVEYdoJmAnYc=",
+      "Fingerprint": "fxshn189te",
+      "Integrity": "TXhdn3DakU+0IYfIducTJYH8q5UO8kgJRQu7LbSRTno=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Shared.wasm"
@@ -5981,12 +5981,12 @@
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Threading.Tasks.wasm"
     },
     {
-      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\clmblb7i7q-94ueupss6s.gz",
+      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\clmblb7i7q-rg0jedbyiw.gz",
       "SourceId": "WebApp2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=94ueupss6s}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=rg0jedbyiw}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5995,8 +5995,8 @@
       "RelatedAsset": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0d7sgyb8bz",
-      "Integrity": "vGP5tTna9NnYWcYVet5kN0SZxx8Fhy6T7YsY2XpSfDo=",
+      "Fingerprint": "zfhifah8oq",
+      "Integrity": "MfA1u6ufwZfdYH86iwJhvsmHZSTBFB0mzxqeeO+pr88=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\wwwroot\\index.html"
@@ -6695,12 +6695,12 @@
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\hgw01pgwbq-6fogp4zox4.gz",
+      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\hgw01pgwbq-n2uam4lcmq.gz",
       "SourceId": "WebApp2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/WebApp2#[.{fingerprint=6fogp4zox4}]!.pdb.gz",
+      "RelativePath": "_framework/WebApp2#[.{fingerprint=n2uam4lcmq}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6709,8 +6709,8 @@
       "RelatedAsset": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WebApp2.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "97e8pie7a6",
-      "Integrity": "GyVxfOQI0Dr15rUSga0/oWo/RFKNhsSqnh2Uid3eePs=",
+      "Fingerprint": "b2a3oyjyl7",
+      "Integrity": "TRqZlG3HZNTrKXoiUZ9S8nmlzt0MNVpViytHJ6h0zS8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WebApp2.pdb"
@@ -7073,12 +7073,12 @@
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Threading.Tasks.Extensions.wasm"
     },
     {
-      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\l4muadvuin-r0zaqzjhpl.gz",
+      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\l4muadvuin-4rlibkjxi4.gz",
       "SourceId": "WebApp2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "WebApp2#[.{fingerprint=r0zaqzjhpl}]!.bundle.scp.css.gz",
+      "RelativePath": "WebApp2#[.{fingerprint=4rlibkjxi4}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -7087,8 +7087,8 @@
       "RelatedAsset": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp2.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "uy7fgrw0l1",
-      "Integrity": "FjIvZlmNEltnZ8PTzqMjq+Zm8zgu52OhjEgXSuzr+Ow=",
+      "Fingerprint": "6n9m5ldtjs",
+      "Integrity": "rnwcyD7+mEjYW6ZtIC5pKtUCvDi6gUSC1EcPk5suKR0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp2.bundle.scp.css"
@@ -7323,6 +7323,27 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+    },
+    {
+      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\mjr179x6uy-0d1ol16nys.gz",
+      "SourceId": "WebApp2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "sample-data/words#[.{fingerprint=0d1ol16nys}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\wwwroot\\sample-data\\words.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "u9ynw5qfx6",
+      "Integrity": "QsGwK0wprW85wXWL1N9icjLwmfb1eCqLII27yOQMmbU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\wwwroot\\sample-data\\words.txt"
     },
     {
       "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\mmcmgbfsgq-746fozk6gk.gz",
@@ -8207,7 +8228,7 @@
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.Handles.wasm"
     },
     {
-      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\rugbtkgr30-iv3tn6eied.gz",
+      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\rugbtkgr30-4474lj2oip.gz",
       "SourceId": "WebApp2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\",
@@ -8221,8 +8242,8 @@
       "RelatedAsset": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "k3x0k5dcli",
-      "Integrity": "cMCNYbTgXDLPWgRYs/79JjgbzJ2K838cXsXIxQA+E0Y=",
+      "Fingerprint": "0ctd8jiwwk",
+      "Integrity": "wCkoCADTjVxtpCs58NSfrELk3WHmTxEjZUmFASu3TqI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8270,12 +8291,12 @@
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Threading.wasm"
     },
     {
-      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\sdtb3hkvl9-s99dlajmzh.gz",
+      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\sdtb3hkvl9-abazqtrytr.gz",
       "SourceId": "WebApp2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/WebApp2#[.{fingerprint=s99dlajmzh}]!.wasm.gz",
+      "RelativePath": "_framework/WebApp2#[.{fingerprint=abazqtrytr}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8284,8 +8305,8 @@
       "RelatedAsset": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WebApp2.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "awl2m5grv6",
-      "Integrity": "ploMDNLNKgSEWuMIa2pAcapLTqwK+jEKQFAS9vZTluI=",
+      "Fingerprint": "05n0hhzn2v",
+      "Integrity": "3AVS+q2Y8POv0z8HavSz5aL3mvHqXBMRywUbSK0kAr4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WebApp2.wasm"
@@ -9047,12 +9068,12 @@
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.ServiceModel.Web.wasm"
     },
     {
-      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vdko1tr59w-1rmt900tyk.gz",
+      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vdko1tr59w-rs3ivjv3xh.gz",
       "SourceId": "WebApp2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Shared#[.{fingerprint=1rmt900tyk}]!.pdb.gz",
+      "RelativePath": "_framework/Shared#[.{fingerprint=rs3ivjv3xh}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -9061,8 +9082,8 @@
       "RelatedAsset": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Shared.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "apx72xfykk",
-      "Integrity": "XnwykRn3Uv45I+udVPKODQyKQfoXsJvH7E2cq0uIUCs=",
+      "Fingerprint": "pcpm8621yv",
+      "Integrity": "2WnnWHYlvyN31o/rnjGcPbKNJE10Hw75Chbj3mLWMM4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Shared.pdb"
@@ -9110,12 +9131,12 @@
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.runtime.js"
     },
     {
-      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vq7mg5pzik-r0zaqzjhpl.gz",
+      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vq7mg5pzik-4rlibkjxi4.gz",
       "SourceId": "WebApp2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "WebApp2#[.{fingerprint=r0zaqzjhpl}]?.styles.css.gz",
+      "RelativePath": "WebApp2#[.{fingerprint=4rlibkjxi4}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -9124,8 +9145,8 @@
       "RelatedAsset": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\scopedcss\\bundle\\WebApp2.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "uy7fgrw0l1",
-      "Integrity": "FjIvZlmNEltnZ8PTzqMjq+Zm8zgu52OhjEgXSuzr+Ow=",
+      "Fingerprint": "6n9m5ldtjs",
+      "Integrity": "rnwcyD7+mEjYW6ZtIC5pKtUCvDi6gUSC1EcPk5suKR0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\scopedcss\\bundle\\WebApp2.styles.css"
@@ -9733,8 +9754,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "r0zaqzjhpl",
-      "Integrity": "Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q=",
+      "Fingerprint": "4rlibkjxi4",
+      "Integrity": "oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\scopedcss\\bundle\\WebApp2.styles.css"
@@ -9754,8 +9775,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "r0zaqzjhpl",
-      "Integrity": "Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q=",
+      "Fingerprint": "4rlibkjxi4",
+      "Integrity": "oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp2.bundle.scp.css"
@@ -9964,8 +9985,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "94ueupss6s",
-      "Integrity": "B85PYVGZGyeGQWKV1nfsBP2TT8f+3ukygNfNFTHNpno=",
+      "Fingerprint": "rg0jedbyiw",
+      "Integrity": "5SRVrMaHRpnn+/HmoVjxAG19ZYEIhEcfLMXfk7VMb3M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -10893,6 +10914,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\wwwroot\\sample-data\\words.txt",
+      "SourceId": "WebApp2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "sample-data/words#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0d1ol16nys",
+      "Integrity": "HOpVzTjIRCesL95CJaZC1DP5g40qD92gLx4FZatin0w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sample-data\\words.txt"
     }
   ],
   "Endpoints": [
@@ -10915,11 +10957,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IpjYBZqIdV+sFYiTAezyLXusUZ0ld8OeOT0OgGyw2gE=\""
+          "Value": "\"BH7RkIojJL91FBceKvAzrzDOL8nIKWHT32o6L7T2Wak=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
+          "Value": "Mon, 31 Mar 2025 07:44:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10929,18 +10971,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IpjYBZqIdV+sFYiTAezyLXusUZ0ld8OeOT0OgGyw2gE="
+          "Value": "sha256-BH7RkIojJL91FBceKvAzrzDOL8nIKWHT32o6L7T2Wak="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\rugbtkgr30-iv3tn6eied.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\rugbtkgr30-4474lj2oip.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080166747"
+          "Quality": "0.000080153895"
         }
       ],
       "ResponseHeaders": [
@@ -10950,15 +10992,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12473"
+          "Value": "12475"
         },
         {
           "Name": "ETag",
-          "Value": "\"cMCNYbTgXDLPWgRYs/79JjgbzJ2K838cXsXIxQA+E0Y=\""
+          "Value": "\"wCkoCADTjVxtpCs58NSfrELk3WHmTxEjZUmFASu3TqI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:17:43 GMT"
+          "Value": "Mon, 31 Mar 2025 07:40:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10978,19 +11020,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"IpjYBZqIdV+sFYiTAezyLXusUZ0ld8OeOT0OgGyw2gE=\""
+          "Value": "W/\"BH7RkIojJL91FBceKvAzrzDOL8nIKWHT32o6L7T2Wak=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IpjYBZqIdV+sFYiTAezyLXusUZ0ld8OeOT0OgGyw2gE="
+          "Value": "sha256-BH7RkIojJL91FBceKvAzrzDOL8nIKWHT32o6L7T2Wak="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\rugbtkgr30-iv3tn6eied.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\rugbtkgr30-4474lj2oip.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10999,7 +11041,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12473"
+          "Value": "12475"
         },
         {
           "Name": "Content-Type",
@@ -11007,11 +11049,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cMCNYbTgXDLPWgRYs/79JjgbzJ2K838cXsXIxQA+E0Y=\""
+          "Value": "\"wCkoCADTjVxtpCs58NSfrELk3WHmTxEjZUmFASu3TqI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:17:43 GMT"
+          "Value": "Mon, 31 Mar 2025 07:40:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11029,7 +11071,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cMCNYbTgXDLPWgRYs/79JjgbzJ2K838cXsXIxQA+E0Y="
+          "Value": "sha256-wCkoCADTjVxtpCs58NSfrELk3WHmTxEjZUmFASu3TqI="
         }
       ]
     },
@@ -22793,168 +22835,7 @@
       ]
     },
     {
-      "Route": "_framework/Shared.1rmt900tyk.pdb",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Shared.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10828"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"k/4km9f/rXbYCWDpNCjFxEdBdODwWi+fAIS07mb/u34=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1rmt900tyk"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Shared.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-k/4km9f/rXbYCWDpNCjFxEdBdODwWi+fAIS07mb/u34="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Shared.1rmt900tyk.pdb",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vdko1tr59w-1rmt900tyk.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000159033079"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6287"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XnwykRn3Uv45I+udVPKODQyKQfoXsJvH7E2cq0uIUCs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"k/4km9f/rXbYCWDpNCjFxEdBdODwWi+fAIS07mb/u34=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1rmt900tyk"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Shared.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-k/4km9f/rXbYCWDpNCjFxEdBdODwWi+fAIS07mb/u34="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Shared.1rmt900tyk.pdb.gz",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vdko1tr59w-1rmt900tyk.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6287"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"XnwykRn3Uv45I+udVPKODQyKQfoXsJvH7E2cq0uIUCs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1rmt900tyk"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Shared.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-XnwykRn3Uv45I+udVPKODQyKQfoXsJvH7E2cq0uIUCs="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Shared.mgn1yni8i4.wasm",
+      "Route": "_framework/Shared.kvnx4j6rod.wasm",
       "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Shared.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22964,7 +22845,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4373"
+          "Value": "5909"
         },
         {
           "Name": "Content-Type",
@@ -22972,11 +22853,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+pQPYurvdGe9b5qaBd7o7hFSPJtTUSEDUGyrDOVbU3U=\""
+          "Value": "\"4Dhw4fm6oAazqqS6rquj5peNhAkkWXW0S2Raht0x6cY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
+          "Value": "Thu, 27 Mar 2025 10:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22986,7 +22867,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mgn1yni8i4"
+          "Value": "kvnx4j6rod"
         },
         {
           "Name": "label",
@@ -22994,18 +22875,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+pQPYurvdGe9b5qaBd7o7hFSPJtTUSEDUGyrDOVbU3U="
+          "Value": "sha256-4Dhw4fm6oAazqqS6rquj5peNhAkkWXW0S2Raht0x6cY="
         }
       ]
     },
     {
-      "Route": "_framework/Shared.mgn1yni8i4.wasm",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\c7ny5wr54k-mgn1yni8i4.gz",
+      "Route": "_framework/Shared.kvnx4j6rod.wasm",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\c7ny5wr54k-kvnx4j6rod.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000537634409"
+          "Quality": "0.000389105058"
         }
       ],
       "ResponseHeaders": [
@@ -23015,15 +22896,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1859"
+          "Value": "2569"
         },
         {
           "Name": "ETag",
-          "Value": "\"KKUEI/Y8hrxHWt1Z3myBEAbDJWaIpOFnVEYdoJmAnYc=\""
+          "Value": "\"TXhdn3DakU+0IYfIducTJYH8q5UO8kgJRQu7LbSRTno=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
+          "Value": "Thu, 27 Mar 2025 10:48:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23043,13 +22924,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+pQPYurvdGe9b5qaBd7o7hFSPJtTUSEDUGyrDOVbU3U=\""
+          "Value": "W/\"4Dhw4fm6oAazqqS6rquj5peNhAkkWXW0S2Raht0x6cY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mgn1yni8i4"
+          "Value": "kvnx4j6rod"
         },
         {
           "Name": "label",
@@ -23057,13 +22938,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+pQPYurvdGe9b5qaBd7o7hFSPJtTUSEDUGyrDOVbU3U="
+          "Value": "sha256-4Dhw4fm6oAazqqS6rquj5peNhAkkWXW0S2Raht0x6cY="
         }
       ]
     },
     {
-      "Route": "_framework/Shared.mgn1yni8i4.wasm.gz",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\c7ny5wr54k-mgn1yni8i4.gz",
+      "Route": "_framework/Shared.kvnx4j6rod.wasm.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\c7ny5wr54k-kvnx4j6rod.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23072,7 +22953,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1859"
+          "Value": "2569"
         },
         {
           "Name": "Content-Type",
@@ -23080,11 +22961,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KKUEI/Y8hrxHWt1Z3myBEAbDJWaIpOFnVEYdoJmAnYc=\""
+          "Value": "\"TXhdn3DakU+0IYfIducTJYH8q5UO8kgJRQu7LbSRTno=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
+          "Value": "Thu, 27 Mar 2025 10:48:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23102,7 +22983,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "mgn1yni8i4"
+          "Value": "kvnx4j6rod"
         },
         {
           "Name": "label",
@@ -23110,7 +22991,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-KKUEI/Y8hrxHWt1Z3myBEAbDJWaIpOFnVEYdoJmAnYc="
+          "Value": "sha256-TXhdn3DakU+0IYfIducTJYH8q5UO8kgJRQu7LbSRTno="
         }
       ]
     },
@@ -23125,7 +23006,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10828"
+          "Value": "11648"
         },
         {
           "Name": "Content-Type",
@@ -23133,11 +23014,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"k/4km9f/rXbYCWDpNCjFxEdBdODwWi+fAIS07mb/u34=\""
+          "Value": "\"uz4U5m4msK9AG6Jd7BoJ0J7FbT5EmL5LmuO3WNZTK2g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:26 GMT"
+          "Value": "Thu, 27 Mar 2025 10:48:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23147,18 +23028,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-k/4km9f/rXbYCWDpNCjFxEdBdODwWi+fAIS07mb/u34="
+          "Value": "sha256-uz4U5m4msK9AG6Jd7BoJ0J7FbT5EmL5LmuO3WNZTK2g="
         }
       ]
     },
     {
       "Route": "_framework/Shared.pdb",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vdko1tr59w-1rmt900tyk.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vdko1tr59w-rs3ivjv3xh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000159033079"
+          "Quality": "0.000148104265"
         }
       ],
       "ResponseHeaders": [
@@ -23168,15 +23049,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6287"
+          "Value": "6751"
         },
         {
           "Name": "ETag",
-          "Value": "\"XnwykRn3Uv45I+udVPKODQyKQfoXsJvH7E2cq0uIUCs=\""
+          "Value": "\"2WnnWHYlvyN31o/rnjGcPbKNJE10Hw75Chbj3mLWMM4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
+          "Value": "Thu, 27 Mar 2025 10:48:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23196,19 +23077,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"k/4km9f/rXbYCWDpNCjFxEdBdODwWi+fAIS07mb/u34=\""
+          "Value": "W/\"uz4U5m4msK9AG6Jd7BoJ0J7FbT5EmL5LmuO3WNZTK2g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-k/4km9f/rXbYCWDpNCjFxEdBdODwWi+fAIS07mb/u34="
+          "Value": "sha256-uz4U5m4msK9AG6Jd7BoJ0J7FbT5EmL5LmuO3WNZTK2g="
         }
       ]
     },
     {
       "Route": "_framework/Shared.pdb.gz",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vdko1tr59w-1rmt900tyk.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vdko1tr59w-rs3ivjv3xh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23217,7 +23098,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6287"
+          "Value": "6751"
         },
         {
           "Name": "Content-Type",
@@ -23225,11 +23106,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"XnwykRn3Uv45I+udVPKODQyKQfoXsJvH7E2cq0uIUCs=\""
+          "Value": "\"2WnnWHYlvyN31o/rnjGcPbKNJE10Hw75Chbj3mLWMM4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
+          "Value": "Thu, 27 Mar 2025 10:48:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23247,7 +23128,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-XnwykRn3Uv45I+udVPKODQyKQfoXsJvH7E2cq0uIUCs="
+          "Value": "sha256-2WnnWHYlvyN31o/rnjGcPbKNJE10Hw75Chbj3mLWMM4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Shared.rs3ivjv3xh.pdb",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Shared.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uz4U5m4msK9AG6Jd7BoJ0J7FbT5EmL5LmuO3WNZTK2g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 10:48:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rs3ivjv3xh"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Shared.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uz4U5m4msK9AG6Jd7BoJ0J7FbT5EmL5LmuO3WNZTK2g="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Shared.rs3ivjv3xh.pdb",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vdko1tr59w-rs3ivjv3xh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000148104265"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6751"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2WnnWHYlvyN31o/rnjGcPbKNJE10Hw75Chbj3mLWMM4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 10:48:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"uz4U5m4msK9AG6Jd7BoJ0J7FbT5EmL5LmuO3WNZTK2g=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rs3ivjv3xh"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Shared.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uz4U5m4msK9AG6Jd7BoJ0J7FbT5EmL5LmuO3WNZTK2g="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Shared.rs3ivjv3xh.pdb.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vdko1tr59w-rs3ivjv3xh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6751"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2WnnWHYlvyN31o/rnjGcPbKNJE10Hw75Chbj3mLWMM4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 10:48:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rs3ivjv3xh"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Shared.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2WnnWHYlvyN31o/rnjGcPbKNJE10Hw75Chbj3mLWMM4="
         }
       ]
     },
@@ -23262,7 +23304,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4373"
+          "Value": "5909"
         },
         {
           "Name": "Content-Type",
@@ -23270,11 +23312,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+pQPYurvdGe9b5qaBd7o7hFSPJtTUSEDUGyrDOVbU3U=\""
+          "Value": "\"4Dhw4fm6oAazqqS6rquj5peNhAkkWXW0S2Raht0x6cY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
+          "Value": "Thu, 27 Mar 2025 10:48:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23284,18 +23326,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+pQPYurvdGe9b5qaBd7o7hFSPJtTUSEDUGyrDOVbU3U="
+          "Value": "sha256-4Dhw4fm6oAazqqS6rquj5peNhAkkWXW0S2Raht0x6cY="
         }
       ]
     },
     {
       "Route": "_framework/Shared.wasm",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\c7ny5wr54k-mgn1yni8i4.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\c7ny5wr54k-kvnx4j6rod.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000537634409"
+          "Quality": "0.000389105058"
         }
       ],
       "ResponseHeaders": [
@@ -23305,15 +23347,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1859"
+          "Value": "2569"
         },
         {
           "Name": "ETag",
-          "Value": "\"KKUEI/Y8hrxHWt1Z3myBEAbDJWaIpOFnVEYdoJmAnYc=\""
+          "Value": "\"TXhdn3DakU+0IYfIducTJYH8q5UO8kgJRQu7LbSRTno=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
+          "Value": "Thu, 27 Mar 2025 10:48:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23333,19 +23375,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+pQPYurvdGe9b5qaBd7o7hFSPJtTUSEDUGyrDOVbU3U=\""
+          "Value": "W/\"4Dhw4fm6oAazqqS6rquj5peNhAkkWXW0S2Raht0x6cY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+pQPYurvdGe9b5qaBd7o7hFSPJtTUSEDUGyrDOVbU3U="
+          "Value": "sha256-4Dhw4fm6oAazqqS6rquj5peNhAkkWXW0S2Raht0x6cY="
         }
       ]
     },
     {
       "Route": "_framework/Shared.wasm.gz",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\c7ny5wr54k-mgn1yni8i4.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\c7ny5wr54k-kvnx4j6rod.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23354,7 +23396,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1859"
+          "Value": "2569"
         },
         {
           "Name": "Content-Type",
@@ -23362,11 +23404,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KKUEI/Y8hrxHWt1Z3myBEAbDJWaIpOFnVEYdoJmAnYc=\""
+          "Value": "\"TXhdn3DakU+0IYfIducTJYH8q5UO8kgJRQu7LbSRTno=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
+          "Value": "Thu, 27 Mar 2025 10:48:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23384,7 +23426,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KKUEI/Y8hrxHWt1Z3myBEAbDJWaIpOFnVEYdoJmAnYc="
+          "Value": "sha256-TXhdn3DakU+0IYfIducTJYH8q5UO8kgJRQu7LbSRTno="
         }
       ]
     },
@@ -71367,305 +71409,7 @@
       ]
     },
     {
-      "Route": "_framework/WebApp2.6fogp4zox4.pdb",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WebApp2.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "42348"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"oliNLU6Ava1kMWUqt8Ni+PFiuzf23q9OnZVq5Jhgogw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6fogp4zox4"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/WebApp2.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-oliNLU6Ava1kMWUqt8Ni+PFiuzf23q9OnZVq5Jhgogw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/WebApp2.6fogp4zox4.pdb",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\hgw01pgwbq-6fogp4zox4.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000030219697"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33090"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GyVxfOQI0Dr15rUSga0/oWo/RFKNhsSqnh2Uid3eePs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"oliNLU6Ava1kMWUqt8Ni+PFiuzf23q9OnZVq5Jhgogw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6fogp4zox4"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/WebApp2.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-oliNLU6Ava1kMWUqt8Ni+PFiuzf23q9OnZVq5Jhgogw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/WebApp2.6fogp4zox4.pdb.gz",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\hgw01pgwbq-6fogp4zox4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33090"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GyVxfOQI0Dr15rUSga0/oWo/RFKNhsSqnh2Uid3eePs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6fogp4zox4"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/WebApp2.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GyVxfOQI0Dr15rUSga0/oWo/RFKNhsSqnh2Uid3eePs="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/WebApp2.pdb",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WebApp2.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "42348"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"oliNLU6Ava1kMWUqt8Ni+PFiuzf23q9OnZVq5Jhgogw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-oliNLU6Ava1kMWUqt8Ni+PFiuzf23q9OnZVq5Jhgogw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/WebApp2.pdb",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\hgw01pgwbq-6fogp4zox4.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000030219697"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33090"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GyVxfOQI0Dr15rUSga0/oWo/RFKNhsSqnh2Uid3eePs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"oliNLU6Ava1kMWUqt8Ni+PFiuzf23q9OnZVq5Jhgogw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-oliNLU6Ava1kMWUqt8Ni+PFiuzf23q9OnZVq5Jhgogw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/WebApp2.pdb.gz",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\hgw01pgwbq-6fogp4zox4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33090"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GyVxfOQI0Dr15rUSga0/oWo/RFKNhsSqnh2Uid3eePs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-GyVxfOQI0Dr15rUSga0/oWo/RFKNhsSqnh2Uid3eePs="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/WebApp2.s99dlajmzh.wasm",
+      "Route": "_framework/WebApp2.abazqtrytr.wasm",
       "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WebApp2.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71675,7 +71419,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "42261"
+          "Value": "66837"
         },
         {
           "Name": "Content-Type",
@@ -71683,11 +71427,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ML3MEUJOtZc/O8gEDA+fM0BoD+hixMLSdwEz7Kd67N4=\""
+          "Value": "\"9jwcRNXLj7t0n57EP4Tmq0fSLpndCQ/fOHkNkNzetLc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
+          "Value": "Mon, 31 Mar 2025 07:44:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71697,7 +71441,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s99dlajmzh"
+          "Value": "abazqtrytr"
         },
         {
           "Name": "label",
@@ -71705,18 +71449,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ML3MEUJOtZc/O8gEDA+fM0BoD+hixMLSdwEz7Kd67N4="
+          "Value": "sha256-9jwcRNXLj7t0n57EP4Tmq0fSLpndCQ/fOHkNkNzetLc="
         }
       ]
     },
     {
-      "Route": "_framework/WebApp2.s99dlajmzh.wasm",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\sdtb3hkvl9-s99dlajmzh.gz",
+      "Route": "_framework/WebApp2.abazqtrytr.wasm",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\sdtb3hkvl9-abazqtrytr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000059697928"
+          "Quality": "0.000037717346"
         }
       ],
       "ResponseHeaders": [
@@ -71726,15 +71470,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16750"
+          "Value": "26512"
         },
         {
           "Name": "ETag",
-          "Value": "\"ploMDNLNKgSEWuMIa2pAcapLTqwK+jEKQFAS9vZTluI=\""
+          "Value": "\"3AVS+q2Y8POv0z8HavSz5aL3mvHqXBMRywUbSK0kAr4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
+          "Value": "Mon, 31 Mar 2025 07:44:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71754,13 +71498,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ML3MEUJOtZc/O8gEDA+fM0BoD+hixMLSdwEz7Kd67N4=\""
+          "Value": "W/\"9jwcRNXLj7t0n57EP4Tmq0fSLpndCQ/fOHkNkNzetLc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s99dlajmzh"
+          "Value": "abazqtrytr"
         },
         {
           "Name": "label",
@@ -71768,13 +71512,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ML3MEUJOtZc/O8gEDA+fM0BoD+hixMLSdwEz7Kd67N4="
+          "Value": "sha256-9jwcRNXLj7t0n57EP4Tmq0fSLpndCQ/fOHkNkNzetLc="
         }
       ]
     },
     {
-      "Route": "_framework/WebApp2.s99dlajmzh.wasm.gz",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\sdtb3hkvl9-s99dlajmzh.gz",
+      "Route": "_framework/WebApp2.abazqtrytr.wasm.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\sdtb3hkvl9-abazqtrytr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71783,7 +71527,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16750"
+          "Value": "26512"
         },
         {
           "Name": "Content-Type",
@@ -71791,11 +71535,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ploMDNLNKgSEWuMIa2pAcapLTqwK+jEKQFAS9vZTluI=\""
+          "Value": "\"3AVS+q2Y8POv0z8HavSz5aL3mvHqXBMRywUbSK0kAr4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
+          "Value": "Mon, 31 Mar 2025 07:44:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71813,7 +71557,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "s99dlajmzh"
+          "Value": "abazqtrytr"
         },
         {
           "Name": "label",
@@ -71821,7 +71565,305 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ploMDNLNKgSEWuMIa2pAcapLTqwK+jEKQFAS9vZTluI="
+          "Value": "sha256-3AVS+q2Y8POv0z8HavSz5aL3mvHqXBMRywUbSK0kAr4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/WebApp2.n2uam4lcmq.pdb",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WebApp2.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v2zLMZqLFG0uQtYBMo/gjlNEgcPFYZcGpD9TukTl6fk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 07:44:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2uam4lcmq"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/WebApp2.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v2zLMZqLFG0uQtYBMo/gjlNEgcPFYZcGpD9TukTl6fk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/WebApp2.n2uam4lcmq.pdb",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\hgw01pgwbq-n2uam4lcmq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000023569897"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42426"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TRqZlG3HZNTrKXoiUZ9S8nmlzt0MNVpViytHJ6h0zS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 07:44:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"v2zLMZqLFG0uQtYBMo/gjlNEgcPFYZcGpD9TukTl6fk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2uam4lcmq"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/WebApp2.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v2zLMZqLFG0uQtYBMo/gjlNEgcPFYZcGpD9TukTl6fk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/WebApp2.n2uam4lcmq.pdb.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\hgw01pgwbq-n2uam4lcmq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TRqZlG3HZNTrKXoiUZ9S8nmlzt0MNVpViytHJ6h0zS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 07:44:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2uam4lcmq"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/WebApp2.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TRqZlG3HZNTrKXoiUZ9S8nmlzt0MNVpViytHJ6h0zS8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/WebApp2.pdb",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\bin\\Debug\\net9.0\\wwwroot\\_framework\\WebApp2.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54196"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v2zLMZqLFG0uQtYBMo/gjlNEgcPFYZcGpD9TukTl6fk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 07:44:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v2zLMZqLFG0uQtYBMo/gjlNEgcPFYZcGpD9TukTl6fk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/WebApp2.pdb",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\hgw01pgwbq-n2uam4lcmq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000023569897"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42426"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TRqZlG3HZNTrKXoiUZ9S8nmlzt0MNVpViytHJ6h0zS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 07:44:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"v2zLMZqLFG0uQtYBMo/gjlNEgcPFYZcGpD9TukTl6fk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v2zLMZqLFG0uQtYBMo/gjlNEgcPFYZcGpD9TukTl6fk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/WebApp2.pdb.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\hgw01pgwbq-n2uam4lcmq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TRqZlG3HZNTrKXoiUZ9S8nmlzt0MNVpViytHJ6h0zS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 31 Mar 2025 07:44:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TRqZlG3HZNTrKXoiUZ9S8nmlzt0MNVpViytHJ6h0zS8="
         }
       ]
     },
@@ -71836,7 +71878,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "42261"
+          "Value": "66837"
         },
         {
           "Name": "Content-Type",
@@ -71844,11 +71886,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ML3MEUJOtZc/O8gEDA+fM0BoD+hixMLSdwEz7Kd67N4=\""
+          "Value": "\"9jwcRNXLj7t0n57EP4Tmq0fSLpndCQ/fOHkNkNzetLc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
+          "Value": "Mon, 31 Mar 2025 07:44:31 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71858,18 +71900,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ML3MEUJOtZc/O8gEDA+fM0BoD+hixMLSdwEz7Kd67N4="
+          "Value": "sha256-9jwcRNXLj7t0n57EP4Tmq0fSLpndCQ/fOHkNkNzetLc="
         }
       ]
     },
     {
       "Route": "_framework/WebApp2.wasm",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\sdtb3hkvl9-s99dlajmzh.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\sdtb3hkvl9-abazqtrytr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000059697928"
+          "Quality": "0.000037717346"
         }
       ],
       "ResponseHeaders": [
@@ -71879,15 +71921,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16750"
+          "Value": "26512"
         },
         {
           "Name": "ETag",
-          "Value": "\"ploMDNLNKgSEWuMIa2pAcapLTqwK+jEKQFAS9vZTluI=\""
+          "Value": "\"3AVS+q2Y8POv0z8HavSz5aL3mvHqXBMRywUbSK0kAr4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
+          "Value": "Mon, 31 Mar 2025 07:44:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71907,19 +71949,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ML3MEUJOtZc/O8gEDA+fM0BoD+hixMLSdwEz7Kd67N4=\""
+          "Value": "W/\"9jwcRNXLj7t0n57EP4Tmq0fSLpndCQ/fOHkNkNzetLc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ML3MEUJOtZc/O8gEDA+fM0BoD+hixMLSdwEz7Kd67N4="
+          "Value": "sha256-9jwcRNXLj7t0n57EP4Tmq0fSLpndCQ/fOHkNkNzetLc="
         }
       ]
     },
     {
       "Route": "_framework/WebApp2.wasm.gz",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\sdtb3hkvl9-s99dlajmzh.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\sdtb3hkvl9-abazqtrytr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71928,7 +71970,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16750"
+          "Value": "26512"
         },
         {
           "Name": "Content-Type",
@@ -71936,11 +71978,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ploMDNLNKgSEWuMIa2pAcapLTqwK+jEKQFAS9vZTluI=\""
+          "Value": "\"3AVS+q2Y8POv0z8HavSz5aL3mvHqXBMRywUbSK0kAr4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Mar 2025 09:51:29 GMT"
+          "Value": "Mon, 31 Mar 2025 07:44:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71958,7 +72000,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ploMDNLNKgSEWuMIa2pAcapLTqwK+jEKQFAS9vZTluI="
+          "Value": "sha256-3AVS+q2Y8POv0z8HavSz5aL3mvHqXBMRywUbSK0kAr4="
         }
       ]
     },
@@ -73215,13 +73257,13 @@
       ]
     },
     {
-      "Route": "index.94ueupss6s.html",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\clmblb7i7q-94ueupss6s.gz",
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\clmblb7i7q-rg0jedbyiw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002136752137"
+          "Quality": "0.001953125000"
         }
       ],
       "ResponseHeaders": [
@@ -73231,19 +73273,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "467"
+          "Value": "511"
         },
         {
           "Name": "ETag",
-          "Value": "\"vGP5tTna9NnYWcYVet5kN0SZxx8Fhy6T7YsY2XpSfDo=\""
+          "Value": "\"MfA1u6ufwZfdYH86iwJhvsmHZSTBFB0mzxqeeO+pr88=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 08:18:50 GMT"
+          "Value": "Thu, 13 Mar 2025 11:23:13 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -73259,26 +73301,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"B85PYVGZGyeGQWKV1nfsBP2TT8f+3ukygNfNFTHNpno=\""
+          "Value": "W/\"5SRVrMaHRpnn+/HmoVjxAG19ZYEIhEcfLMXfk7VMb3M=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "94ueupss6s"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-B85PYVGZGyeGQWKV1nfsBP2TT8f+3ukygNfNFTHNpno="
+          "Value": "sha256-5SRVrMaHRpnn+/HmoVjxAG19ZYEIhEcfLMXfk7VMb3M="
         }
       ]
     },
     {
-      "Route": "index.94ueupss6s.html",
+      "Route": "index.html",
       "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -73288,7 +73322,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "969"
+          "Value": "1086"
         },
         {
           "Name": "Content-Type",
@@ -73296,11 +73330,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"B85PYVGZGyeGQWKV1nfsBP2TT8f+3ukygNfNFTHNpno=\""
+          "Value": "\"5SRVrMaHRpnn+/HmoVjxAG19ZYEIhEcfLMXfk7VMb3M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 08:18:50 GMT"
+          "Value": "Thu, 13 Mar 2025 11:23:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5SRVrMaHRpnn+/HmoVjxAG19ZYEIhEcfLMXfk7VMb3M="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\clmblb7i7q-rg0jedbyiw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "511"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MfA1u6ufwZfdYH86iwJhvsmHZSTBFB0mzxqeeO+pr88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 11:23:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MfA1u6ufwZfdYH86iwJhvsmHZSTBFB0mzxqeeO+pr88="
+        }
+      ]
+    },
+    {
+      "Route": "index.rg0jedbyiw.html",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\clmblb7i7q-rg0jedbyiw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001953125000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "511"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MfA1u6ufwZfdYH86iwJhvsmHZSTBFB0mzxqeeO+pr88=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 11:23:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5SRVrMaHRpnn+/HmoVjxAG19ZYEIhEcfLMXfk7VMb3M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rg0jedbyiw"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5SRVrMaHRpnn+/HmoVjxAG19ZYEIhEcfLMXfk7VMb3M="
+        }
+      ]
+    },
+    {
+      "Route": "index.rg0jedbyiw.html",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5SRVrMaHRpnn+/HmoVjxAG19ZYEIhEcfLMXfk7VMb3M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 13 Mar 2025 11:23:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73310,7 +73489,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "94ueupss6s"
+          "Value": "rg0jedbyiw"
         },
         {
           "Name": "label",
@@ -73318,13 +73497,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-B85PYVGZGyeGQWKV1nfsBP2TT8f+3ukygNfNFTHNpno="
+          "Value": "sha256-5SRVrMaHRpnn+/HmoVjxAG19ZYEIhEcfLMXfk7VMb3M="
         }
       ]
     },
     {
-      "Route": "index.94ueupss6s.html.gz",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\clmblb7i7q-94ueupss6s.gz",
+      "Route": "index.rg0jedbyiw.html.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\clmblb7i7q-rg0jedbyiw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -73333,7 +73512,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "467"
+          "Value": "511"
         },
         {
           "Name": "Content-Type",
@@ -73341,11 +73520,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vGP5tTna9NnYWcYVet5kN0SZxx8Fhy6T7YsY2XpSfDo=\""
+          "Value": "\"MfA1u6ufwZfdYH86iwJhvsmHZSTBFB0mzxqeeO+pr88=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 08:18:50 GMT"
+          "Value": "Thu, 13 Mar 2025 11:23:13 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -73363,7 +73542,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "94ueupss6s"
+          "Value": "rg0jedbyiw"
         },
         {
           "Name": "label",
@@ -73371,144 +73550,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vGP5tTna9NnYWcYVet5kN0SZxx8Fhy6T7YsY2XpSfDo="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\clmblb7i7q-94ueupss6s.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002136752137"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "467"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vGP5tTna9NnYWcYVet5kN0SZxx8Fhy6T7YsY2XpSfDo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 08:18:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"B85PYVGZGyeGQWKV1nfsBP2TT8f+3ukygNfNFTHNpno=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-B85PYVGZGyeGQWKV1nfsBP2TT8f+3ukygNfNFTHNpno="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "969"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"B85PYVGZGyeGQWKV1nfsBP2TT8f+3ukygNfNFTHNpno=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 08:18:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-B85PYVGZGyeGQWKV1nfsBP2TT8f+3ukygNfNFTHNpno="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\clmblb7i7q-94ueupss6s.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "467"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vGP5tTna9NnYWcYVet5kN0SZxx8Fhy6T7YsY2XpSfDo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 24 Feb 2025 08:18:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vGP5tTna9NnYWcYVet5kN0SZxx8Fhy6T7YsY2XpSfDo="
+          "Value": "sha256-MfA1u6ufwZfdYH86iwJhvsmHZSTBFB0mzxqeeO+pr88="
         }
       ]
     },
@@ -86625,13 +86667,13 @@
       ]
     },
     {
-      "Route": "WebApp2.bundle.scp.css",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\l4muadvuin-r0zaqzjhpl.gz",
+      "Route": "sample-data/words.0d1ol16nys.txt",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\mjr179x6uy-0d1ol16nys.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000631711939"
+          "Quality": "0.000004251068"
         }
       ],
       "ResponseHeaders": [
@@ -86641,15 +86683,176 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1582"
+          "Value": "235234"
         },
         {
           "Name": "ETag",
-          "Value": "\"FjIvZlmNEltnZ8PTzqMjq+Zm8zgu52OhjEgXSuzr+Ow=\""
+          "Value": "\"QsGwK0wprW85wXWL1N9icjLwmfb1eCqLII27yOQMmbU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 11:37:14 GMT"
+          "Value": "Mon, 24 Mar 2025 14:26:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HOpVzTjIRCesL95CJaZC1DP5g40qD92gLx4FZatin0w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0d1ol16nys"
+        },
+        {
+          "Name": "label",
+          "Value": "sample-data/words.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HOpVzTjIRCesL95CJaZC1DP5g40qD92gLx4FZatin0w="
+        }
+      ]
+    },
+    {
+      "Route": "sample-data/words.0d1ol16nys.txt",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\wwwroot\\sample-data\\words.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "855870"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HOpVzTjIRCesL95CJaZC1DP5g40qD92gLx4FZatin0w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 14:26:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0d1ol16nys"
+        },
+        {
+          "Name": "label",
+          "Value": "sample-data/words.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HOpVzTjIRCesL95CJaZC1DP5g40qD92gLx4FZatin0w="
+        }
+      ]
+    },
+    {
+      "Route": "sample-data/words.0d1ol16nys.txt.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\mjr179x6uy-0d1ol16nys.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "235234"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QsGwK0wprW85wXWL1N9icjLwmfb1eCqLII27yOQMmbU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 14:26:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0d1ol16nys"
+        },
+        {
+          "Name": "label",
+          "Value": "sample-data/words.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QsGwK0wprW85wXWL1N9icjLwmfb1eCqLII27yOQMmbU="
+        }
+      ]
+    },
+    {
+      "Route": "sample-data/words.txt",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\mjr179x6uy-0d1ol16nys.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000004251068"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "235234"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QsGwK0wprW85wXWL1N9icjLwmfb1eCqLII27yOQMmbU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 14:26:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86665,22 +86868,167 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q=\""
+          "Value": "W/\"HOpVzTjIRCesL95CJaZC1DP5g40qD92gLx4FZatin0w=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q="
+          "Value": "sha256-HOpVzTjIRCesL95CJaZC1DP5g40qD92gLx4FZatin0w="
         }
       ]
     },
     {
-      "Route": "WebApp2.bundle.scp.css",
+      "Route": "sample-data/words.txt",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\wwwroot\\sample-data\\words.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "855870"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HOpVzTjIRCesL95CJaZC1DP5g40qD92gLx4FZatin0w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 14:26:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HOpVzTjIRCesL95CJaZC1DP5g40qD92gLx4FZatin0w="
+        }
+      ]
+    },
+    {
+      "Route": "sample-data/words.txt.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\mjr179x6uy-0d1ol16nys.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "235234"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QsGwK0wprW85wXWL1N9icjLwmfb1eCqLII27yOQMmbU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 14:26:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QsGwK0wprW85wXWL1N9icjLwmfb1eCqLII27yOQMmbU="
+        }
+      ]
+    },
+    {
+      "Route": "WebApp2.4rlibkjxi4.bundle.scp.css",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\l4muadvuin-4rlibkjxi4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000469704086"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2128"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rnwcyD7+mEjYW6ZtIC5pKtUCvDi6gUSC1EcPk5suKR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 11:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4rlibkjxi4"
+        },
+        {
+          "Name": "label",
+          "Value": "WebApp2.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI="
+        }
+      ]
+    },
+    {
+      "Route": "WebApp2.4rlibkjxi4.bundle.scp.css",
       "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp2.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -86690,7 +87038,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5147"
+          "Value": "7094"
         },
         {
           "Name": "Content-Type",
@@ -86698,121 +87046,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q=\""
+          "Value": "\"oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 11:37:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q="
-        }
-      ]
-    },
-    {
-      "Route": "WebApp2.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\l4muadvuin-r0zaqzjhpl.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1582"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FjIvZlmNEltnZ8PTzqMjq+Zm8zgu52OhjEgXSuzr+Ow=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 11:37:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FjIvZlmNEltnZ8PTzqMjq+Zm8zgu52OhjEgXSuzr+Ow="
-        }
-      ]
-    },
-    {
-      "Route": "WebApp2.r0zaqzjhpl.bundle.scp.css",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\l4muadvuin-r0zaqzjhpl.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000631711939"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1582"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FjIvZlmNEltnZ8PTzqMjq+Zm8zgu52OhjEgXSuzr+Ow=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 11:37:14 GMT"
+          "Value": "Thu, 27 Mar 2025 11:24:18 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r0zaqzjhpl"
+          "Value": "4rlibkjxi4"
         },
         {
           "Name": "label",
@@ -86820,13 +87068,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q="
+          "Value": "sha256-oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI="
         }
       ]
     },
     {
-      "Route": "WebApp2.r0zaqzjhpl.bundle.scp.css",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp2.bundle.scp.css",
+      "Route": "WebApp2.4rlibkjxi4.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\l4muadvuin-4rlibkjxi4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -86835,7 +87083,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5147"
+          "Value": "2128"
         },
         {
           "Name": "Content-Type",
@@ -86843,56 +87091,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q=\""
+          "Value": "\"rnwcyD7+mEjYW6ZtIC5pKtUCvDi6gUSC1EcPk5suKR0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 11:37:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "r0zaqzjhpl"
-        },
-        {
-          "Name": "label",
-          "Value": "WebApp2.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q="
-        }
-      ]
-    },
-    {
-      "Route": "WebApp2.r0zaqzjhpl.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\l4muadvuin-r0zaqzjhpl.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1582"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FjIvZlmNEltnZ8PTzqMjq+Zm8zgu52OhjEgXSuzr+Ow=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 11:37:14 GMT"
+          "Value": "Thu, 27 Mar 2025 11:24:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86910,7 +87113,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r0zaqzjhpl"
+          "Value": "4rlibkjxi4"
         },
         {
           "Name": "label",
@@ -86918,18 +87121,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FjIvZlmNEltnZ8PTzqMjq+Zm8zgu52OhjEgXSuzr+Ow="
+          "Value": "sha256-rnwcyD7+mEjYW6ZtIC5pKtUCvDi6gUSC1EcPk5suKR0="
         }
       ]
     },
     {
-      "Route": "WebApp2.r0zaqzjhpl.styles.css",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vq7mg5pzik-r0zaqzjhpl.gz",
+      "Route": "WebApp2.4rlibkjxi4.styles.css",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vq7mg5pzik-4rlibkjxi4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000631711939"
+          "Quality": "0.000469704086"
         }
       ],
       "ResponseHeaders": [
@@ -86939,15 +87142,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1582"
+          "Value": "2128"
         },
         {
           "Name": "ETag",
-          "Value": "\"FjIvZlmNEltnZ8PTzqMjq+Zm8zgu52OhjEgXSuzr+Ow=\""
+          "Value": "\"rnwcyD7+mEjYW6ZtIC5pKtUCvDi6gUSC1EcPk5suKR0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 11:37:14 GMT"
+          "Value": "Thu, 27 Mar 2025 11:24:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86967,13 +87170,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q=\""
+          "Value": "W/\"oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r0zaqzjhpl"
+          "Value": "4rlibkjxi4"
         },
         {
           "Name": "label",
@@ -86981,12 +87184,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q="
+          "Value": "sha256-oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI="
         }
       ]
     },
     {
-      "Route": "WebApp2.r0zaqzjhpl.styles.css",
+      "Route": "WebApp2.4rlibkjxi4.styles.css",
       "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\scopedcss\\bundle\\WebApp2.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -86996,7 +87199,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5147"
+          "Value": "7094"
         },
         {
           "Name": "Content-Type",
@@ -87004,11 +87207,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q=\""
+          "Value": "\"oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 11:37:14 GMT"
+          "Value": "Thu, 27 Mar 2025 11:24:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -87018,7 +87221,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r0zaqzjhpl"
+          "Value": "4rlibkjxi4"
         },
         {
           "Name": "label",
@@ -87026,13 +87229,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q="
+          "Value": "sha256-oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI="
         }
       ]
     },
     {
-      "Route": "WebApp2.r0zaqzjhpl.styles.css.gz",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vq7mg5pzik-r0zaqzjhpl.gz",
+      "Route": "WebApp2.4rlibkjxi4.styles.css.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vq7mg5pzik-4rlibkjxi4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -87041,7 +87244,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1582"
+          "Value": "2128"
         },
         {
           "Name": "Content-Type",
@@ -87049,11 +87252,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FjIvZlmNEltnZ8PTzqMjq+Zm8zgu52OhjEgXSuzr+Ow=\""
+          "Value": "\"rnwcyD7+mEjYW6ZtIC5pKtUCvDi6gUSC1EcPk5suKR0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 11:37:14 GMT"
+          "Value": "Thu, 27 Mar 2025 11:24:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -87071,7 +87274,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r0zaqzjhpl"
+          "Value": "4rlibkjxi4"
         },
         {
           "Name": "label",
@@ -87079,18 +87282,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FjIvZlmNEltnZ8PTzqMjq+Zm8zgu52OhjEgXSuzr+Ow="
+          "Value": "sha256-rnwcyD7+mEjYW6ZtIC5pKtUCvDi6gUSC1EcPk5suKR0="
         }
       ]
     },
     {
-      "Route": "WebApp2.styles.css",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vq7mg5pzik-r0zaqzjhpl.gz",
+      "Route": "WebApp2.bundle.scp.css",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\l4muadvuin-4rlibkjxi4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000631711939"
+          "Quality": "0.000469704086"
         }
       ],
       "ResponseHeaders": [
@@ -87100,15 +87303,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1582"
+          "Value": "2128"
         },
         {
           "Name": "ETag",
-          "Value": "\"FjIvZlmNEltnZ8PTzqMjq+Zm8zgu52OhjEgXSuzr+Ow=\""
+          "Value": "\"rnwcyD7+mEjYW6ZtIC5pKtUCvDi6gUSC1EcPk5suKR0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 11:37:14 GMT"
+          "Value": "Thu, 27 Mar 2025 11:24:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -87128,13 +87331,150 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q=\""
+          "Value": "W/\"oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q="
+          "Value": "sha256-oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI="
+        }
+      ]
+    },
+    {
+      "Route": "WebApp2.bundle.scp.css",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\WebApp2.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7094"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 11:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI="
+        }
+      ]
+    },
+    {
+      "Route": "WebApp2.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\l4muadvuin-4rlibkjxi4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2128"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rnwcyD7+mEjYW6ZtIC5pKtUCvDi6gUSC1EcPk5suKR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 11:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rnwcyD7+mEjYW6ZtIC5pKtUCvDi6gUSC1EcPk5suKR0="
+        }
+      ]
+    },
+    {
+      "Route": "WebApp2.styles.css",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vq7mg5pzik-4rlibkjxi4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000469704086"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2128"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rnwcyD7+mEjYW6ZtIC5pKtUCvDi6gUSC1EcPk5suKR0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 11:24:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI="
         }
       ]
     },
@@ -87149,7 +87489,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5147"
+          "Value": "7094"
         },
         {
           "Name": "Content-Type",
@@ -87157,11 +87497,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q=\""
+          "Value": "\"oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 11:37:14 GMT"
+          "Value": "Thu, 27 Mar 2025 11:24:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -87171,13 +87511,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Nfor/qfb71TYf5SkGNsqfrrnqWp0YH9iA0pplGUUm4Q="
+          "Value": "sha256-oGnSUiNHcaZPrFddkS0XEVLsRTCp9OxDoAYMesewMxI="
         }
       ]
     },
     {
       "Route": "WebApp2.styles.css.gz",
-      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vq7mg5pzik-r0zaqzjhpl.gz",
+      "AssetFile": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\obj\\Debug\\net9.0\\compressed\\vq7mg5pzik-4rlibkjxi4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -87186,7 +87526,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1582"
+          "Value": "2128"
         },
         {
           "Name": "Content-Type",
@@ -87194,11 +87534,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FjIvZlmNEltnZ8PTzqMjq+Zm8zgu52OhjEgXSuzr+Ow=\""
+          "Value": "\"rnwcyD7+mEjYW6ZtIC5pKtUCvDi6gUSC1EcPk5suKR0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 10 Mar 2025 11:37:14 GMT"
+          "Value": "Thu, 27 Mar 2025 11:24:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -87216,7 +87556,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FjIvZlmNEltnZ8PTzqMjq+Zm8zgu52OhjEgXSuzr+Ow="
+          "Value": "sha256-rnwcyD7+mEjYW6ZtIC5pKtUCvDi6gUSC1EcPk5suKR0="
         }
       ]
     }

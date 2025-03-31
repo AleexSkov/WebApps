@@ -1,0 +1,15 @@
+th {
+    background-color: lightgray;
+}
+
+.temp-cold {
+    color: dodgerblue;
+}
+
+.temp-hot {
+    color: indianred;
+}
+
+.temp-normal {
+    color: green;
+}

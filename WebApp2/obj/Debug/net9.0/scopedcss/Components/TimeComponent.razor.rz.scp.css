@@ -1,10 +1,12 @@
 
 .top-corner[b-16ldof7neg] {
     position: fixed;
-    top:0;
+    top: 0;
     height: 3.5rem;
-    right:0;
-    background-color: lightblue;
-    padding: 10px;
+    right: 90px;
+    color: gray;
+    padding-top: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
     z-index: 9999;
-} 
+}

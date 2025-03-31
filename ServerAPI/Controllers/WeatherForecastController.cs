@@ -14,7 +14,7 @@ public class WeatherForecastController : ControllerBase
     
     private static readonly string[] Locations = new[]
     {
-        "Århus", "Esbjerg", "Fredericia", "Middelfart", "Vejle", "København", "Harboøre"
+        "Århus", "Esbjerg", "Fredericia", "Middelfart", "Vejle", "København", "Harboøre", "Kolding"
     };
 
     private readonly ILogger<WeatherForecastController> _logger;
@@ -46,8 +46,8 @@ public class WeatherForecastController : ControllerBase
         return Enumerable.Range(1, n).Select(index => new WeatherForecast
             {
                 Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-                Location = Locations[Random.Shared.Next(Locations.Length)],
                 TemperatureC = Random.Shared.Next(-20, 55),
+                Location = Locations[Random.Shared.Next(Locations.Length)],
                 Summary = Summaries[Random.Shared.Next(Summaries.Length)]
             })
             .ToArray();

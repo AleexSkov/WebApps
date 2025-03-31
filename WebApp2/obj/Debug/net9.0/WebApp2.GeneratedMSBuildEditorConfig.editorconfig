@@ -32,12 +32,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNb2RhbERpYWxvZy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleex/src/WebApps/WebApp2/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/Users/aleex/src/WebApps/WebApp2/Pages/AddBike.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQmlrZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleex/src/WebApps/WebApp2/Pages/Dicecup.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGljZWN1cC5yYXpvcg==
+[C:/Users/aleex/src/WebApps/WebApp2/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/aleex/src/WebApps/WebApp2/Pages/Home.razor]
@@ -48,16 +48,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFBhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aleex/src/WebApps/WebApp2/Pages/ToDo2Page.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9EbzJQYWdlLnJhem9y
+[C:/Users/aleex/src/WebApps/WebApp2/Pages/SearchPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VhcmNoUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/aleex/src/WebApps/WebApp2/Pages/ToDoPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9Eb1BhZ2UucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/aleex/src/WebApps/WebApp2/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/aleex/src/WebApps/WebApp2/_Imports.razor]
@@ -80,6 +76,18 @@ build_metadata.AdditionalFiles.CssScope = b-shqsvxrtct
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-p6l6muimte
 
+[C:/Users/aleex/src/WebApps/WebApp2/Pages/Bike.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmlrZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-lj392z7rug
+
+[C:/Users/aleex/src/WebApps/WebApp2/Pages/DogsPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9nc1BhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ejqudwvlpq
+
 [C:/Users/aleex/src/WebApps/WebApp2/Pages/MyDices.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlEaWNlcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-z7mpij9jxf
+
+[C:/Users/aleex/src/WebApps/WebApp2/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-kq1vrdqoe1

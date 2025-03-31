@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "WebApp2",
   "resources": {
-    "hash": "sha256-IRn00sAqxCebW7MSZB09H0rvxo+l/KPW2h7syRy93gE=",
+    "hash": "sha256-+C1J18lipADvlk3C4Gb2ZtxcygbW8jkGFMkqoDh4wH8=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
       "Microsoft.AspNetCore.Authorization.n41ua9ceve.wasm": "Microsoft.AspNetCore.Authorization.wasm",
@@ -202,10 +202,10 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "Shared.mgn1yni8i4.wasm": "Shared.wasm",
-      "Shared.1rmt900tyk.pdb": "Shared.pdb",
-      "WebApp2.s99dlajmzh.wasm": "WebApp2.wasm",
-      "WebApp2.6fogp4zox4.pdb": "WebApp2.pdb"
+      "Shared.kvnx4j6rod.wasm": "Shared.wasm",
+      "Shared.rs3ivjv3xh.pdb": "Shared.pdb",
+      "WebApp2.abazqtrytr.wasm": "WebApp2.wasm",
+      "WebApp2.n2uam4lcmq.pdb": "WebApp2.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.8o8n7iomrf.js": "sha256-WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g="
@@ -416,12 +416,12 @@
       "WindowsBase.ovqw333kan.wasm": "sha256-7LCr4nX9JSGuwzMr8Rk8TGvC6ApzQNxCDiMV/0I9JlI=",
       "mscorlib.l6md3pggqy.wasm": "sha256-jZgH0LixLeQKqaq33akQgDGhfE7vbXbHtvCId5HC0Yo=",
       "netstandard.lij9csiyuf.wasm": "sha256-DeeBl9s8G34N3IfYRQ+MoY807amodj8cvpuvUSNaWE4=",
-      "Shared.mgn1yni8i4.wasm": "sha256-+pQPYurvdGe9b5qaBd7o7hFSPJtTUSEDUGyrDOVbU3U=",
-      "WebApp2.s99dlajmzh.wasm": "sha256-ML3MEUJOtZc/O8gEDA+fM0BoD+hixMLSdwEz7Kd67N4="
+      "Shared.kvnx4j6rod.wasm": "sha256-4Dhw4fm6oAazqqS6rquj5peNhAkkWXW0S2Raht0x6cY=",
+      "WebApp2.abazqtrytr.wasm": "sha256-9jwcRNXLj7t0n57EP4Tmq0fSLpndCQ/fOHkNkNzetLc="
     },
     "pdb": {
-      "Shared.1rmt900tyk.pdb": "sha256-k/4km9f/rXbYCWDpNCjFxEdBdODwWi+fAIS07mb/u34=",
-      "WebApp2.6fogp4zox4.pdb": "sha256-oliNLU6Ava1kMWUqt8Ni+PFiuzf23q9OnZVq5Jhgogw="
+      "Shared.rs3ivjv3xh.pdb": "sha256-uz4U5m4msK9AG6Jd7BoJ0J7FbT5EmL5LmuO3WNZTK2g=",
+      "WebApp2.n2uam4lcmq.pdb": "sha256-v2zLMZqLFG0uQtYBMo/gjlNEgcPFYZcGpD9TukTl6fk="
     }
   },
   "cacheBootResources": true,

@@ -1,0 +1,60 @@
+@page "/bike"
+@inject HttpClient Http
+@inject NavigationManager navMan
+@using Shared
+<PageTitle>Bike</PageTitle>
+
+<h1>Bikes</h1>
+
+@if (bikes == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        
+        <tbody> 
+        @foreach (var bike in bikes)
+        {
+            <tr class="bikeRow">
+                <td><h2>@bike.Brand - @bike.Model</h2><br />
+                    Price: @bike.Price kr.</td>
+                <td><img class="bikeImg" src="@bike.ImageUrl" width="200px"/></td>
+                <td><button class="btn btn-danger" @onclick="() => DeleteBike(bike)">Delete</button></td>
+            </tr>
+        }
+        </tbody>
+    </table>
+    <button class="btn btn-primary" @onclick="NavigateToAdd">Add</button>
+}
+
+@code {
+
+    private string serverUrl = "http://localhost:5299/";
+    private BEBike[]? bikes;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadAll();
+    }
+
+    private async Task LoadAll()
+    {
+        bikes = await Http.GetFromJsonAsync<BEBike[]>($"{serverUrl}api/bike");
+    }
+
+    private void NavigateToAdd()
+    {
+        navMan.NavigateTo("addbike");
+    }
+
+    private async Task DeleteBike(BEBike bike)
+    {
+        Console.WriteLine($"Fjerner cykel med id {bike.Id}");
+        await Http.DeleteAsync($"{serverUrl}api/bike/{bike.Id}");
+        await LoadAll();
+
+    }
+
+}

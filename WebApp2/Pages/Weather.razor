@@ -1,12 +1,35 @@
 ﻿@page "/weather"
 @inject HttpClient Http
 @using Shared;
+@using WebApp2.Components
+
 
 <PageTitle>Weather</PageTitle>
+
+<TimeComponent/>
+
 
 <h1>Weather</h1>
 
 <p>This component demonstrates fetching data from the server.</p>
+
+<div class="mb-3">
+    <button class="btn btn-primary" @onclick="ToggleTemp">
+        Switch to @(ShowFahrenheit ? "Celsius" : "Fahrenheit")
+    </button>
+    <button class="btn btn-primary" @onclick="Minus5">
+        Minus 5 days
+    </button>
+    <button class="btn btn-primary" @onclick="Plus5">
+        Plus 5 days
+    </button>
+</div>
+
+<div class="mb-3">
+    <label for="forecastDays">Number of days:</label>
+    <InputNumber @bind-Value="forecastDays" min="1" max="100" Placeholder="Enter amount of Days" />
+    <button class="btn btn-secondary btn-sm" @onclick="LoadForecasts">Load Forecasts</button>
+</div>
 
 @if (forecasts == null)
 {
@@ -16,13 +39,12 @@
 }
 else
 {
-    <table class="table">
+    <table class="table table-striped">
         <thead>
         <tr>
             <th>Date</th>
+            <th>Temperature</th>
             <th>Location</th>
-            <th aria-label="Temperature in Celsius">Temp. (C)</th>
-            <th aria-label="Temperature in Farenheit">Temp. (F)</th>
             <th>Summary</th>
         </tr>
         </thead>
@@ -31,10 +53,9 @@ else
         {
             <tr>
                 <td>@forecast.Date.ToShortDateString()</td>
+                <td>@(ShowFahrenheit ? forecast.TemperatureF : forecast.TemperatureC)@(ShowFahrenheit ? "°F" : "°C")</td>
                 <td>@forecast.Location</td>
-                <td>@forecast.TemperatureC</td>
-                <td>@forecast.TemperatureF</td>
-                <td>@forecast.Summary</td>
+                <td class="@GetSummaryClass(forecast.Summary)">@forecast.Summary</td>
             </tr>
         }
         </tbody>
@@ -43,10 +64,45 @@ else
 
 @code {
     private WeatherForecast[]? forecasts;
+    private bool ShowFahrenheit = false;
+    private int? forecastDays = null;
+
+    private void ToggleTemp() => ShowFahrenheit = !ShowFahrenheit;
+
+    private async Task Minus5()
+    {
+        if (forecastDays > 5)
+        {
+            forecastDays -= 5;
+            await LoadForecasts();
+        }
+    }
+
+    private async Task Plus5()
+    {
+        forecastDays = (forecastDays ?? 0) + 5; // Hvis null, start fra 0
+        await LoadForecasts();
+    }
+    
+    private async Task LoadForecasts()
+    {
+        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>($"http://localhost:5299/vejr/{forecastDays}");
+    }
+    
+    private string GetSummaryClass(string summary)
+    {
+        return summary switch
+        {
+        "Freezing" or "Bracing" or "Chilly" or "Cool" => "temp-cold",
+            "Warm" or "Balmy" or "Hot" or "Sweltering" or "Scorching" => "temp-hot",
+            _ => "temp-normal"
+        };
+    }
+
 
     protected override async Task OnInitializedAsync()
     {
-        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("http://localhost:5299/vejr/20");
+        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("http://localhost:5299/vejr/10");
     }
 
 }

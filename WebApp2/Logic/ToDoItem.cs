@@ -1,7 +1,11 @@
-namespace WebApp2.Logic;
+using System;
 
-public class ToDoItem
+
+namespace WebApp2.Logic
 {
-    public bool Done { get; set; }
-    public string Text { get; set; } = "";
+    public class ToDoItem
+    {
+        public bool IsDone { get; set; }
+        public string Title { get; set; }
+    }
 }

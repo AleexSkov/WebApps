@@ -1,0 +1,37 @@
+@page "/dogs"
+@inject HttpClient Http
+
+<h3>DogImages</h3>
+
+<button @onclick="HentBilleder">Hent nye billeder</button>
+
+@if (dogImages is null)
+{
+    <p>Indlæser billeder...</p>
+}
+else
+{
+    <div class="grid">
+        @foreach (var img in dogImages)
+        {
+            <div class="dog-card">
+                <img src="@img" alt="Hundebillede" />
+                <p><a href="@img" target="_blank">@img</a></p>
+            </div>
+        }
+    </div>
+}
+
+@code {
+    private List<string>? dogImages;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await HentBilleder();
+    }
+
+    private async Task HentBilleder()
+    {
+        dogImages = await Http.GetFromJsonAsync<List<string>>("http://localhost:5299/api/dogs/16");
+    }
+}

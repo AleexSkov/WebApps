@@ -225,6 +225,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+      "Id": "C:\\Users\\aleex\\src\\WebApps\\WebApp2\\wwwroot\\sample-data\\words.txt",
+      "PackagePath": "staticwebassets\\sample-data\\words.txt"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.WebApp2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

@@ -1,0 +1,81 @@
+@page "/search"
+@inject HttpClient Http
+
+<h3 class="mb-4">Word Search</h3>
+
+
+<div class="mb-3">
+    <input @bind="searchTerm" class="form-control mb-2" placeholder="Søg efter et ord..." />
+    <button class="btn btn-primary" @onclick="@(() => Search(true))">Starter med</button>
+    <button class="btn btn-secondary" @onclick="@(() => Search(false))">Indeholder</button>
+</div>
+
+
+
+
+@if (!string.IsNullOrEmpty(statusMessage))
+{
+    <div class="alert alert-info">@statusMessage</div>
+}
+
+<ul class="list-group">
+    @foreach (var word in filteredWords.Take(displayCount))
+    {
+        <li class="list-group-item">@word</li>
+    }
+</ul>
+
+
+@if (filteredWords.Count > displayCount)
+{
+    <button class="btn btn-link mt-2" @onclick="ShowMore">Flere...</button>
+}
+
+
+
+
+@code {
+    private string searchTerm = string.Empty;
+    private List<string> filteredWords = new();
+    private string statusMessage = string.Empty;
+    private string[] allWords = Array.Empty<string>();
+    private const int ItemsPerPage = 10;
+    private int displayCount = ItemsPerPage;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            var fileContent = await Http.GetStringAsync("sample-data/words.txt");
+            allWords = fileContent.Split(new[] { '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries)
+                                 .Select(w => w.Trim())
+                                 .ToArray();
+        }
+        catch (Exception)
+        {
+            statusMessage = "Fejl: Kunne ikke indlæse ordlisten.";
+        }
+    }
+
+    private void Search(bool startsWith)
+    {
+        if (string.IsNullOrWhiteSpace(searchTerm))
+        {
+            filteredWords.Clear();
+            statusMessage = "Indtast et ord for at søge.";
+            return;
+        }
+
+        filteredWords = startsWith
+            ? allWords.Where(w => w.StartsWith(searchTerm, StringComparison.OrdinalIgnoreCase)).ToList()
+            : allWords.Where(w => w.Contains(searchTerm, StringComparison.OrdinalIgnoreCase)).ToList();
+
+        displayCount = ItemsPerPage;
+        statusMessage = $"Fandt {filteredWords.Count} ord som {(startsWith ? "starter med" : "indeholder")} \"{searchTerm}\"";
+    }
+
+    private void ShowMore()
+    {
+        displayCount += ItemsPerPage;
+    }
+}

@@ -1,59 +1,131 @@
 @page "/todo"
-@using WebApp2.Logic
+@using WebApp2.Components
+@using Shared
+@using System.Net.Http.Json
+@inject HttpClient Http
 
-<h3>ToDo</h3>
+<PageTitle>Todo</PageTitle>
+
+<TimeComponent/>
+
+
+<h1>Todo (not done: @todos.Count(todo => !todo.IsDone))</h1>
 
 <table class="table table-striped">
     <thead>
     <tr>
-        <th scope="col">IsDone?</th>
-        <th scope="col">What to do</th>
-        <th scope="col">Delete</th>
+        <th>Status</th>
+        <th>Title</th>
     </tr>
     </thead>
     <tbody>
-    @foreach (var todo in mItems)
+    @foreach (var todo in todos)
     {
         <tr>
-            <td><InputCheckbox @bind-Value="todo.Done" /></td>
-            <td><InputText @bind-Value="todo.Text" /></td>
-                
             <td>
-                <scan class="bi bi-x-circle-fill" style="color:red; cursor:grab;" @onclick="() => DeleteItem(todo)"></scan>
+                <InputCheckbox @bind-Value="todo.IsDone" @onchange="async () => await UpdateTodo(todo)" />
             </td>
-                
+            <td>@todo.Title</td>
+            <td>
+                <button class="btn btn-danger" @onclick="() => RemoveToDo(todo)">X</button>
+            </td>
         </tr>
     }
     </tbody>
 </table>
-<InputText @bind-value="newToDoText" placeholder="Indtast ny to-do" ></InputText>
-<button class="btn btn-primary" @onclick="() => Add()">Add</button>
+<button onclick="@Open">ADD</button>
 
+<ModalDialog @ref="@addDialog" Title="TILFØJ">
+    <InputText @bind-value="newTodo" placeholder="Indtast ny to-do" />
+    <button class="btn btn-primary" @onclick="() => AddTodo()">Add</button>
+</ModalDialog>
 
+<InputText placeholder="Something todo" @bind-Value="newTodo" />
+<button @onclick="AddTodo">Add todo</button>
 
 @code {
-    List<ToDoItem> mItems;
+    private string? newTodo;
+    private List<BETodoItem> todos = new();
+    private ModalDialog? addDialog { get; set; }
 
-    string newToDoText;
-
-    protected override void OnInitialized()
+    protected override async Task OnInitializedAsync()
     {
-        mItems = new() { new ToDoItem { Text = "lektier" }, new ToDoItem { Text = "lave mad" } };
-        
-
+        await LoadTodos();
     }
 
-    private void Add()
+    private async Task LoadTodos()
     {
-        ToDoItem newItem = new ToDoItem { Text = newToDoText };
-        mItems.Add(newItem);
-        newToDoText = "";
+        try
+        {
+            var response = await Http.GetFromJsonAsync<List<BETodoItem>>("http://localhost:5299/api/todo");
+            if (response != null)
+            {
+                todos = response;
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error loading todos: {ex.Message}");
+        }
     }
 
-    private void DeleteItem(ToDoItem item)
+    private async Task AddTodo()
     {
-        mItems.Remove(item);
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            var todoItem = new BETodoItem { Title = newTodo, IsDone = false };
+            try
+            {
+                var response = await Http.PostAsJsonAsync("http://localhost:5299/api/todo", todoItem);
+                if (response.IsSuccessStatusCode)
+                {
+                    await LoadTodos();
+                    newTodo = string.Empty;
+                    addDialog?.Close();
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error adding todo: {ex.Message}");
+            }
+        }
     }
 
+    private async Task UpdateTodo(BETodoItem todo)
+    {
+        try
+        {
+            var response = await Http.PutAsJsonAsync("http://localhost:5299/api/todo", todo);
+            if (!response.IsSuccessStatusCode)
+            {
+                await LoadTodos();
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error updating todo: {ex.Message}");
+            await LoadTodos();
+        }
+    }
 
+    private async Task RemoveToDo(BETodoItem todo)
+    {
+        try
+        {
+            var response = await Http.DeleteAsync($"/api/todo/{Uri.EscapeDataString(todo.Title)}");
+            if (response.IsSuccessStatusCode)
+            {
+                await LoadTodos();
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error removing todo: {ex.Message}");
+        }
+    }
+
+    private void Open()
+    {
+        addDialog?.Open();
+    }
 }
